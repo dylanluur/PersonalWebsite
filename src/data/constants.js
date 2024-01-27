@@ -6,7 +6,7 @@ export const Bio = {
     "Student",
   ],
   description:
-    "I'm a current Georgia Tech Computational Media student. I currently enjoy UI/UX design and general software engineering and I'm passionate about making products that will improve other people's lives. I also have other interests in football, volleyball, basketball, and some light gaming. I'm also a huge Star Wars nerd and can delve deep into the lore if that's your thing. Thanks for checking out my page!",
+    "I'm a current Georgia Tech Computer Science student. I currently enjoy UI/UX design and general software engineering and I'm passionate about making products that will improve other people's lives. I also have other interests in football, volleyball, basketball, and some light gaming. I'm also a huge Star Wars nerd and can delve deep into the lore if that's your thing. Thanks for checking out my page!",
   github: "https://github.com/dylanluur",
   resume:
     "https://drive.google.com/file/d/1043Xh8oqwMSCUoe-H5Uy2G4bop2zvOiO/view?usp=sharing",
@@ -90,8 +90,8 @@ export const education = [
     school: "Georgia Institute of Technology",
     date: "Aug 2023 - May 2026",
     grade: "-/4.0",
-    desc: "I am currently pursuing a Bachelor's degree in Computational Media with a concentration in People and Interaction Design.",
-    degree: "Bachelor of Science in Computational Media",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science with a concentration in People and tbd...",
+    degree: "Bachelor of Science in Computer Science",
   },
   {
     id: 1,
